@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    background-color: rgb(124, 211, 240);
+}
+.umhone{
+    margin-top: 250px;
+    font-weight: bold;
+    font-size: 52px;
+}
+input{
+    background-color: rgb(224, 224, 224);
+    width: 400px !important;
+    margin-left: 600px !important;
+}
+.btn{
+    background-color: rgb(83, 83, 83);
+    color: white;
+    margin-top: 10px;
+}
+.umbtn{
+    margin: 7px;
+    margin-bottom: 5px;
+}
+.umbtn1{
+    background-color: rgb(253, 61, 61);
+}
+#todo-item,button{
+    margin-top: 50px;
+}
+.umone{
+    margin-right: 50px;
+}
